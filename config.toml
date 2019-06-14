@@ -1,0 +1,4 @@
+baseURL = "http://kholodilov.me/"
+languageCode = "en-us"
+title = "Dmitry's notes"
+theme = "ananke"
