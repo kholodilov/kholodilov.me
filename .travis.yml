@@ -15,5 +15,3 @@ deploy:
   acl: public-read
   local-dir: public
   skip_cleanup: true
-  on:
-    repo: kholodilov/kholodilov.me
