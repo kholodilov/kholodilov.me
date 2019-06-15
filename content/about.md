@@ -7,7 +7,7 @@ My name is Dmitry Kholodilov. I'm a software engineer specializing in data engin
 
 You can contact me by email: dmitry at kholodilov dot me
 
-Also you could find the following links useful:
+Also you may find the following links useful:
 
 * [GitHub](https://github.com/kholodilov)
 * [StackOverflow](https://stackoverflow.com/users/217079/dmitry)
