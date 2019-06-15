@@ -11,7 +11,7 @@ deploy:
   provider: gcs
   access_key_id: $GCS_ACCESS_KEY
   secret_access_key: $GCS_SECRET_KEY
-  bucket: www.kholodilov.me
+  bucket: kholodilov.me
   acl: public-read
   local-dir: public
   skip_cleanup: true
