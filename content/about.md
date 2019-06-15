@@ -3,7 +3,7 @@ title: "About"
 date: 2019-06-15
 ---
 
-My name is Dmitry Kholodilov. I'm a software engineer specializing in data engineering and machine learning. I like to solve complex algorithmic and data-intensive problems.
+My name is Dmitry Kholodilov. I'm software engineer specializing in data engineering and machine learning. I like to solve complex algorithmic and data-intensive problems.
 
 You can contact me by email: dmitry at kholodilov dot me
 
