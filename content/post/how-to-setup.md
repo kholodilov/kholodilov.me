@@ -1,7 +1,8 @@
 ---
 title: "How to setup static website like this one on Google Cloud Storage"
-date: 2019-06-15T01:54:54+03:00
+date: 2019-06-15
 draft: false
+tags: [meta]
 ---
 
 ## Basic setup
@@ -10,7 +11,7 @@ draft: false
 1. Sign up for Google Cloud with free credits
 1. Verify domain with Google
 1. Create "www.example.com" bucket, setup access and web pages (https://geekflare.com/cloud-storage-static-website/)
-1. Install hugo and create simple website, then generate static content (http://evanbrown.io/post/hugo-on-the-go/)
+1. Install Hugo and create simple website, then generate static content (http://evanbrown.io/post/hugo-on-the-go/)
 1. Sync static content to the bucket with gsutil 
 1. Create CNAME for "www" pointing to GCS and check that website works
 1. Setup redirect from main domain to www

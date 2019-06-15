@@ -1,4 +1,31 @@
-baseURL = "http://kholodilov.me/"
+baseURL = "https://www.kholodilov.me/"
 languageCode = "en-us"
-title = "Dmitry Kholodilov"
-theme = "ananke"
+title = "Dmitry's notes"
+theme = "cayman-hugo-theme"
+
+[params]
+  # Header text, can be markdown
+  project_name = "Dmitry Kholodilov"
+  project_tagline = " "
+  dateFormat = "2006-01-02"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.nav]]
+    name = "Notes"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 3
+  [[menu.nav]]
+    name = "About"
+    url = "/about"
+    weight = 4
