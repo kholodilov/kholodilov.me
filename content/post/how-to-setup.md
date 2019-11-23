@@ -31,7 +31,7 @@ One important thing that's missing from the above guides is that you shouldn't c
 1. Change nameservers in Namecheap to Cloudflare's
 1. Setup redirect from main domain to www in Cloudflare (https://support.cloudflare.com/hc/en-us/articles/200172286-Configuring-URL-forwarding-or-redirects-with-Cloudflare-Page-Rules)
 
-I've seen some laggs in content update with Cloudflare caching, but this behaviour is inconsistent and I haven't found a way to disable caching altogether. If this would become an issue, I'd probably remove Cloudflare from my setup.
+I've seen some lags in content update with Cloudflare caching, but this behaviour is inconsistent and I haven't found a way to disable caching altogether. If this would become an issue, I'd probably remove Cloudflare from my setup.
 
 ## Publishing from Git with Travis
 
