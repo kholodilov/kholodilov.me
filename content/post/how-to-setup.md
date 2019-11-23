@@ -5,7 +5,7 @@ draft: false
 tags: [meta]
 ---
 
-This is an outline of steps I've performed to setup this website. I don't give details much here for each step, but try to refer with links to more detailed explanations. If you're looking for more complete tutorial, try one of the following (from which I compiled my setup):
+This is an outline of steps I've performed to setup this website. I don't give a lot of details here for each step, but try to refer with links to more detailed explanations. If you're looking for more complete tutorial, try one of the following (from which I compiled my setup):
 
 * https://cloud.google.com/storage/docs/hosting-static-website
 * http://evanbrown.io/post/hugo-on-the-go/
