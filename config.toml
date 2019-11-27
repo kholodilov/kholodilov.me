@@ -2,7 +2,7 @@ baseURL = "https://www.kholodilov.me/"
 languageCode = "en-us"
 title = "Dmitry's notes"
 theme = "cayman-hugo-theme"
-disqusShortname = "kholodilov.me"
+disqusShortname = "kholodilov-me"
 
 [params]
   # Header text, can be markdown
